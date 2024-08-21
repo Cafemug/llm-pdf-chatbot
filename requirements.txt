@@ -1,0 +1,9 @@
+langchain
+chromadb
+unstructured
+sentence-transformers
+faiss-cpu
+openai
+pypdf
+loguru
+streamlit==1.12.0
